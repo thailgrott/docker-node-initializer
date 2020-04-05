@@ -11,3 +11,5 @@ sudo apt install docker-ce
 sudo systemctl enable docker
 sudo systemctl start docker
 sudo systemctl status docker
+
+sudo pip install docker-compose
