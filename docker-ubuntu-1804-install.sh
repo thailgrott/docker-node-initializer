@@ -10,6 +10,6 @@ sudo apt-cache policy docker-ce
 sudo apt install docker-ce
 sudo systemctl enable docker
 sudo systemctl start docker
-sudo systemctl status docker
 
+sudo apt install python3-pip
 sudo pip install docker-compose
